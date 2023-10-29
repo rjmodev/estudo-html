@@ -1,2 +1,2 @@
 # estudo-html
-Estudo HTML na plataforma DIO
+Trilha de estudo html na plataforma DIO
